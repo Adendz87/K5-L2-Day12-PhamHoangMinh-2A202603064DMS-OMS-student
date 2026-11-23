@@ -11,3 +11,13 @@ __pycache__/
 *.pyc
 .DS_Store
 .env*
+
+# Day 12: dữ liệu ảnh và file trung gian không đưa lên Git
+G10.zip
+runs/exports/unpacked_*/
+runs/exports/*.bak
+runs/exports/*.DS_Store
+runs/exports/*.zip
+runs/exports/check_extra*
+runs/exports/check_cpA.txt
+runs/exports/check_cpB.txt
